@@ -1,13 +1,9 @@
-# Puzzler
-Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
-
-- Project: Puzzler-VR
-
+# Puzzler-VR
 
 ### Versions Used
-- [Unity 2018.3.0f2
-- [GVR SDK for Unity v1.170.0]
-- [iTween] v2.0.9
+- Unity 2018.3.0f2
+- GVR SDK for Unity v1.170.0
+- iTween v2.0.9
 
 
 ### Directory Structure
