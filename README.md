@@ -15,6 +15,5 @@
 - `GoogleVR` > `Demos` is not included.
 - `GoogleVR` > `GVRVideoPlayer.unitypackage` is included.
 - The `Max Reticle Distance` value for the `GvrReticlePointer` used in the scene is set to `20` instead of the default `10`.
-- Scripts applicable to the course have been updated to reflect Unity's API change from `UnityEngine.VR` to `UnityEngine.XR`.
 
 >**Note:** If for any reason you remove and re-import GVR SDK for Unity v1.170.0, make sure you accept any API update pop-up prompts triggered by Unity.
